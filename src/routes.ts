@@ -4,7 +4,7 @@ import Home from 'pages/Home';
 
 export const routes: Route[] = [
   {
-    path: '/',
+    path: '/compose-take-home-assessment',
     exact: true,
     component: Home,
     cache: false,
